@@ -3,6 +3,18 @@
 * student: "Master! How do I become a good programmer?"
 * master: "Think antipop!!1"
 
+## Example
+
+```
+$ bundle exec rspec spec/models/foo_spec.rb
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+Failures:
+...
+
+Finished in 42.54 seconds
+129 examples, 2 failures
+```
+
 ## Installation
 
 Add this line to your application's Gemfile:
