@@ -1,7 +1,7 @@
 # Rspec::Formatter::Antipop
 
-student: "Master! How do I become a good programmer?"
-master: "Think antipop!!1"
+* student: "Master! How do I become a good programmer?"
+* master: "Think antipop!!1"
 
 ## Installation
 
